@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "eb31210487c1e8ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "0928b6c3a64ed0ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3a7ebcf70138097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84977dc4186be313",
+    "type": "split",
+    "children": [
+      {
+        "id": "426c1f86bb5db9d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18a20b72b73b335e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "6deee4cb953a1fc6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c9a3bec9ccfe268e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 424.5019874572754
+  },
+  "right": {
+    "id": "b0780f54256eb4bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "415939c01bb3acba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41878ea552ad3f40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "项目4/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "27b2247f57ee27b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "项目4/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "03b7cd69908e7f27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b34b4d9d3b8659b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "项目4/README.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "workspaces:管理工作區配置": false,
+      "pkmer:Open Pkmer Market": false
+    }
+  },
+  "active": "e3a7ebcf70138097",
+  "lastOpenFiles": [
+    "images/Pasted image 20241218135726.png",
+    "images/{5067B4DF-1C7F-4F3D-A7D9-93AE4516DD2D}.png",
+    "README.md",
+    "README.pdf",
+    "images/Pasted image 20241218222907.png",
+    "images/Pasted image 20241218223043.png",
+    "images/[Pasted.md",
+    "images/Pasted.md",
+    "images/Pasted image 20241218221718.png",
+    "images/{715BE6E2-D56D-40E7-902F-DBB0F7D1543B}.png",
+    "images/v2.mp4",
+    "images/v1.mp4",
+    "images/Pasted image 20241218135658.png",
+    "images/Pasted image 20241218135708.png",
+    "images/Pasted image 20241218135617.png",
+    "images/Pasted image 20241218135551.png",
+    "images",
+    "code/Part4.py",
+    "code/Part3_2.py",
+    "code/Part2_2.py",
+    "code/Part3_1.py",
+    "code/Part2_3.py",
+    "code/Part2_1.py",
+    "项目3/Medical Institute Lawsuit Dispute Using ML.md",
+    "updated_README.md",
+    "项目4/README.md",
+    "202411S_CreditDefaultDeepLearning/README.md",
+    "项目4/Optimizing Lending Strategies - Credit Default Analysis Based on Deep Learning.md",
+    "项目2/US Traffic Accident Data Visual Analysis.md",
+    "202410S_MedicalLawsuitML/Medical Institute Lawsuit Dispute Using ML.md",
+    "202410S_MedicalLawsuitML/README.md",
+    "项目1/A Market Value Prediction System.md",
+    "项目4/Credit Default Analysis Based on Deep Learning.md",
+    "项目/Optimizing Lending Strategies - Credit Default Analysis Based on Deep Learning.md",
+    "US Traffic Accident Data Visual Analysis.md"
+  ]
+}
