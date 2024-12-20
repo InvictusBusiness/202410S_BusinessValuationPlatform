@@ -1,9 +1,10 @@
 # A Market Value Prediction System
 This is a company valuation system that our team developed.
 
-[![[images/v1.mp4]](https://www.youtube.com/watch?v=s4_-kWb1B5I)
-[![[images/v2.mp4]]](https://www.youtube.com/watch?v=-pYu0-rnoCg)
-![Pasted image 20241218135425.png](images/Pasted%20image%2020241218135425.png)]
+[![[images/v1.mp4]](https://www.youtube.com/watch?v=s4_-kWb1B5I)]
+[![[images/v2.mp4]]](https://www.youtube.com/watch?v=-pYu0-rnoCg)]
+
+![Pasted image 20241218135425.png](images/Pasted%20image%2020241218135425.png)
 ### Project Statement and Objective
 
 Our project addresses the limitations of traditional business valuation methods. For public companies, challenges include market volatility, biases in analyst predictions, and assumptions that fail to reflect market sentiment. For private companies, the lack of comparable data and reliable metrics complicates valuations.
