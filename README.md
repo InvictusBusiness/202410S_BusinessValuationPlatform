@@ -17,8 +17,8 @@ To tackle these problems, our AI-based Python program offers a **dynamic and con
 - Supporting private company valuations with custom data inputs.
 
 ---
-![[Pasted image 20241218135440.png](images/Pasted%20image%2020241218135440.png)
-![[Pasted image 20241218135534.png](images/Pasted%20image%2020241218135534.png)
+![Pasted image 20241218135440.png](images/Pasted%20image%2020241218135440.png)
+![Pasted image 20241218135534.png](images/Pasted%20image%2020241218135534.png)
 ### Program Overview and Responsibilities
 
 Our program is built on **three pillars of functionality**:
@@ -33,7 +33,7 @@ Our program is built on **three pillars of functionality**:
     The program provides insights into sectors, including market cap heatmaps, stock trends, and company recommendations.
     
 
-![[Pasted image 20241218135551.png](images/Pasted%20image%2020241218135551.png)The workflow involves user interaction at each stage:
+![Pasted image 20241218135551.png](images/Pasted%20image%2020241218135551.png)The workflow involves user interaction at each stage:
 
 - Users input company data or choose tickers/sectors.
 - The program dynamically calculates financial metrics and forecasts.
@@ -69,8 +69,8 @@ For **public companies**, we combine DCF and **Lasso Regression** models:
 - Optimistic and pessimistic scenarios are forecasted for stock price predictions.
 
 ---
-![[Pasted image 20241218135708.png](images/Pasted%20image%2020241218135708.png)
-![[Pasted image 20241218135658.png](images/Pasted%20image%2020241218135658.png)
+![Pasted image 20241218135708.png](images/Pasted%20image%2020241218135708.png)
+![Pasted image 20241218135658.png](images/Pasted%20image%2020241218135658.png)
 ### Sentiment Analysis and Revenue Prediction
 
 To incorporate real-time market sentiment, the program:
@@ -83,7 +83,7 @@ With this approach:
 
 - Lasso regression adjusts stock price predictions based on sentiment scores.
 - Confidence intervals provide a range for revenue growth forecasts.
-![[Pasted image 20241218135726.png](images/Pasted%20image%2020241218135726.png)
+![Pasted image 20241218135726.png](images/Pasted%20image%2020241218135726.png)
 ---
 
 ### Features and Innovations
