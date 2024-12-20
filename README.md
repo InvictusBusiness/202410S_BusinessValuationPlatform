@@ -1,8 +1,8 @@
 # A Market Value Prediction System
 This is a company valuation system that our team developed.
 
-
-https://www.youtube.com/watch?v=s4_-kWb1B5I
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/s4_-kWb1B5I/0.jpg)](https://www.youtube.com/watch?v=s4_-kWb1B5I)
+https://www.youtube.com/watch?v=
 (https://www.youtube.com/watch?v=-pYu0-rnoCg)
 
 ![Pasted image 20241218135425.png](images/Pasted%20image%2020241218135425.png)
