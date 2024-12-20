@@ -1,8 +1,8 @@
 # A Market Value Prediction System
 ![Pasted image 20241218135425.png](images/Pasted%20image%2020241218135425.png)
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/"s4_-kWb1B5I"/0.jpg)](https://www.youtube.com/watch?v="s4_-kWb1B5I" "YOUR_VIDEO_TITLE")
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/"-pYu0-rnoCg"/0.jpg)](https://www.youtube.com/watch?v="-pYu0-rnoCg" "YOUR_VIDEO_TITLE")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/s4_-kWb1B5I/0.jpg)](https://www.youtube.com/watch?v=s4_-kWb1B5I)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/"-pYu0-rnoCg"/0.jpg)](https://www.youtube.com/watch?v=-pYu0-rnoCg)
 ![v2 - Compressed with FlexClip (1)](https://github.com/user-attachments/assets/d1f95b8e-13ea-44c1-b9ef-8c41606e76b1)
 
 This is a company valuation system that our team developed.
